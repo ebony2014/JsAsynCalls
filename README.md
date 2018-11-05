@@ -5,4 +5,5 @@
 
 ### 2、Javascript的任务队列和事件循环机制
 Javascript实现异步操作是借助了浏览器的其他线程的帮助，那其他线程是怎么帮助Javascript主线程来实现异步的呢？
+答案就是任务队列（task queue）和事件循环（event loop）
 <img src="https://images2015.cnblogs.com/blog/1094893/201704/1094893-20170419140631852-1337804828.png"/>
